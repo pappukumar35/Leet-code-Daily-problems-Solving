@@ -77,8 +77,8 @@ Here I regularly solve LeetCode problems and maintain their solutions on GitHub.
 📦 Arrays
 🔤 Strings
 
------
-**##📂 Repository Structure**
+----
+##📂 Repository Structure
 Leet-code-Daily-problems-Solving/
 │
 ├── 3501-maximize-active-section-with-trade-ii/
