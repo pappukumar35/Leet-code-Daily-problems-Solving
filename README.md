@@ -128,4 +128,8 @@ Leet-code-Daily-problems-Solving/
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/pappukumar35/Leet-code-Daily-problems-Solving/tree/master/1386-cinema-seat-allocation) |
+## Math
+|  |
+| ------- |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pappukumar35/Leet-code-Daily-problems-Solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->
