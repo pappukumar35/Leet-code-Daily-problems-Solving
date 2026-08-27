@@ -6,7 +6,7 @@
 ![Java](https://img.shields.io/badge/Java-DSA-red?style=for-the-badge&logo=openjdk)
 ![GitHub](https://img.shields.io/badge/GitHub-Daily%20Practice-black?style=for-the-badge&logo=github)
 
-------------
+-------
 
 ## 👨‍💻 About This Repository
 
