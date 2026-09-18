@@ -120,10 +120,12 @@ Leet-code-Daily-problems-Solving/
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/pappukumar35/Leet-code-Daily-problems-Solving/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pappukumar35/Leet-code-Daily-problems-Solving/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Greedy
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/pappukumar35/Leet-code-Daily-problems-Solving/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pappukumar35/Leet-code-Daily-problems-Solving/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -132,4 +134,12 @@ Leet-code-Daily-problems-Solving/
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pappukumar35/Leet-code-Daily-problems-Solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## String
+|  |
+| ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pappukumar35/Leet-code-Daily-problems-Solving/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Sorting
+|  |
+| ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pappukumar35/Leet-code-Daily-problems-Solving/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 <!---LeetCode Topics End-->
