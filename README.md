@@ -8,7 +8,7 @@
 
 
 
-## 👨‍💻 About This Repository
+## 👨‍💻 About This Repository.
 
 Welcome to my **LeetCode Daily Problem Solving** repository! 🔥
 
