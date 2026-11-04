@@ -115,6 +115,7 @@ Leet-code-Daily-problems-Solving/
 ## Array
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pappukumar35/Leet-code-Daily-problems-Solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1386-cinema-seat-allocation](https://github.com/pappukumar35/Leet-code-Daily-problems-Solving/tree/master/1386-cinema-seat-allocation) |
 ## Hash Table
 |  |
@@ -133,6 +134,7 @@ Leet-code-Daily-problems-Solving/
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pappukumar35/Leet-code-Daily-problems-Solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pappukumar35/Leet-code-Daily-problems-Solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
@@ -141,5 +143,6 @@ Leet-code-Daily-problems-Solving/
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pappukumar35/Leet-code-Daily-problems-Solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pappukumar35/Leet-code-Daily-problems-Solving/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 <!---LeetCode Topics End-->
