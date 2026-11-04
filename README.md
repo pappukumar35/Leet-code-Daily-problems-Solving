@@ -117,6 +117,7 @@ Leet-code-Daily-problems-Solving/
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pappukumar35/Leet-code-Daily-problems-Solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1386-cinema-seat-allocation](https://github.com/pappukumar35/Leet-code-Daily-problems-Solving/tree/master/1386-cinema-seat-allocation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pappukumar35/Leet-code-Daily-problems-Solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +137,7 @@ Leet-code-Daily-problems-Solving/
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pappukumar35/Leet-code-Daily-problems-Solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pappukumar35/Leet-code-Daily-problems-Solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pappukumar35/Leet-code-Daily-problems-Solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
 | ------- |
