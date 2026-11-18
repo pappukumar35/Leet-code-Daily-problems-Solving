@@ -128,6 +128,7 @@ Leet-code-Daily-problems-Solving/
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/pappukumar35/Leet-code-Daily-problems-Solving/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pappukumar35/Leet-code-Daily-problems-Solving/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/pappukumar35/Leet-code-Daily-problems-Solving/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -138,6 +139,7 @@ Leet-code-Daily-problems-Solving/
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pappukumar35/Leet-code-Daily-problems-Solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pappukumar35/Leet-code-Daily-problems-Solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pappukumar35/Leet-code-Daily-problems-Solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/pappukumar35/Leet-code-Daily-problems-Solving/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## String
 |  |
 | ------- |
